@@ -13,16 +13,16 @@ Welcome to my Github page! I am BoshenRen and I am currently finishing my Ecolog
 
 #### 🌱 Things I am currently working on: 
 - Finish my Ecology Master Degree
-- Preparing for the IELTS, aiming for a score of 7.
-- Deepen the understanding of remote sensing science, especially hyperspectral remote sensing.
-- Learn about deep learning and understand large models.
+- Preparing for the IELTS, aiming for a score of 7
+- Deepen the understanding of remote sensing science, especially hyperspectral remote sensing
+- Learn about deep learning and understand large models
 - Taking online courses about Data Science and Machine Learning
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 2 hours a day
 - Exercising 3 days a week
-- Seeking a PhD opportunity in Hyperspectral Remote Sensing and Ecology.💪
+- Seeking a PhD opportunity in Hyperspectral Remote Sensing and Ecology 💪
 
 #### :computer: Programming languages and tools: 
 <p>
