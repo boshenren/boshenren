@@ -2,8 +2,9 @@
 ### This is Boshen Ren!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/784494706)
-[![stackoverflow](https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23494824)
+[![stackoverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23494824)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:boshenren@gmail.com)
+
 
 Welcome to my Github page! I am BoshenRen and I am currently finishing my Ecology Master degree at the Chinese Academy of Sciences University!  
 
@@ -28,10 +29,14 @@ Welcome to my Github page! I am BoshenRen and I am currently finishing my Ecolog
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=784494706&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <br />
+<code><img style="width: 10%; height: auto; object-fit: contain;" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<br />
+
+
 </p>
 
 
