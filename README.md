@@ -8,7 +8,7 @@
 
 Welcome to my Github page! I am BoshenRen and I am currently finishing my Ecology Master degree at the Chinese Academy of Sciences University!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/784494706/784494706/blob/main/cover-image.png" width="39%" height="auto%" />
 
 
 #### 🌱 Things I am currently working on: 
