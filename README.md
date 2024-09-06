@@ -8,7 +8,7 @@
 
 Welcome to my Github page! I am BoshenRen and I am currently finishing my Ecology Master degree at the Chinese Academy of Sciences University!  
 
-<img align="right" alt="img" src="https://github.com/784494706/784494706/blob/main/cover-image.png" width="39%" height="auto%" />
+<img align="right" alt="img" src="https://github.com/boshenren/boshenren/blob/main/cover-image.png" width="39%" height="auto%" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -26,7 +26,7 @@ Welcome to my Github page! I am BoshenRen and I am currently finishing my Ecolog
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=784494706&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=boshenren&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
@@ -41,7 +41,7 @@ Welcome to my Github page! I am BoshenRen and I am currently finishing my Ecolog
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/784494706/784494706/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/784494706/784494706/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/784494706/784494706/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boshenren/boshenren/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boshenren/boshenren/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/boshenren/boshenren/output/github-contribution-grid-snake.svg">
 </picture>
